@@ -1,2 +1,6 @@
 # hello-world
 GitHub demo
+
+Hello fellas...
+Here is new user starting sw career
+I'm MSc student at TUT. Software Engineering, Software Systems and so on...
